@@ -1,0 +1,27 @@
+﻿  main.cpp
+  cRocket.cpp
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\crocket.cpp(23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\crocket.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\crocket.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\crocket.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  cButton.cpp
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\cbutton.cpp(41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\cbutton.cpp(43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\cbutton.cpp(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\cbutton.cpp(71): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\cbutton.cpp(73): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\cbutton.cpp(75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  cAsteroid.cpp
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(79): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(84): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(85): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(86): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+c:\users\daniel\desktop\updated, hopefully working\updated, hopefully working\casteroid.cpp(87): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+  asteroidsGame.cpp
+  Generating Code...
+  Updated, hopefully working.vcxproj -> C:\Users\Daniel\Desktop\Updated, hopefully working\Debug\Updated, hopefully working.exe
+  Updated, hopefully working.vcxproj -> C:\Users\Daniel\Desktop\Updated, hopefully working\Debug\Updated, hopefully working.pdb (Partial PDB)
